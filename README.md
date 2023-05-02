@@ -46,5 +46,11 @@ A requirements.txt file was created by running the following command:
 
 pip list > requirements.txt
 
+# Creating the game 
+
+The following code was created to create the game:
+
+image.png
+
 
 
